@@ -4,7 +4,7 @@
 # This script will download the split gap minder zip file,
 # unzip it, 
 ##########################################################
-
+# ADD
 
 echo Creating project directory structure
 sleep 2
